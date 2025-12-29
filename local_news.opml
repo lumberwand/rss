@@ -5,26 +5,20 @@
   </head>
   <body>
     <outline title="Aylmer &amp; Area" text="Aylmer &amp; Area">
-      <outline type="rss" text="Aylmer Express" title="Aylmer Express" xmlUrl="https://aylmerexpress.ca/feed/" htmlUrl="https://aylmerexpress.ca"/>
+      <outline type="rss" text="Aylmer Express" title="Aylmer Express" xmlUrl="https://aylmerexpress.com/aylmer-news/feed/" htmlUrl="https://aylmerexpress.ca"/>
       <outline type="rss" text="St. Thomas-Elgin Local News" title="St. Thomas-Elgin Local News" xmlUrl="https://www.stthomastimesjournal.com/feed" htmlUrl="https://www.stthomastimesjournal.com"/>
     </outline>
 
-    <outline title="York U Area" text="York U Area">
-      <outline type="rss" text="York U News (YFile)" title="York U News (YFile)" xmlUrl="http://yfile.news.yorku.ca/feed/" htmlUrl="https://yfile.news.yorku.ca"/>
+    <outline title="York U Area" text="York U Area">t
+      <outline type="rss" text="York U News (YFile)" title="York U News (YFile)" xmlUrl="https://www.yorku.ca/yfile/feed/" htmlUrl="https://yfile.news.yorku.ca"/>
       <outline type="rss" text="Excalibur (York Student Paper)" title="Excalibur" xmlUrl="https://excal.on.ca/feed/" htmlUrl="https://excal.on.ca"/>
       <outline type="rss" text="York University Libraries Blog" title="York U Libraries" xmlUrl="https://www.library.yorku.ca/web/news/feed/" htmlUrl="https://www.library.yorku.ca/web/news/"/>
     </outline>
 
     <outline title="Greater Toronto Area (GTA)" text="Greater Toronto Area (GTA)">
       <outline type="rss" text="The Local (Independent Toronto Journalism)" title="The Local" xmlUrl="https://thelocal.to/feed/" htmlUrl="https://thelocal.to"/>
-      <outline type="rss" text="BlogTO" title="BlogTO" xmlUrl="https://www.blogto.com/feed/" htmlUrl="https://www.blogto.com"/>
-      <outline type="rss" text="City of Toronto - Open Data Portal" title="Toronto Open Data" xmlUrl="https://open.toronto.ca/feed/" htmlUrl="https://open.toronto.ca"/>
+      <outline type="rss" text="BlogTO" title="BlogTO" xmlUrl="https://www.blogto.com/rss/articles.xml" htmlUrl="https://www.blogto.com"/>
       <outline type="rss" text="CBC Toronto" title="CBC Toronto" xmlUrl="https://rss.cbc.ca/lineup/canada-toronto.xml" htmlUrl="https://www.cbc.ca/news/canada/toronto"/>
-    </outline>
-
-    <outline title="Ontario Open Gov &amp; Tech" text="Ontario Open Gov &amp; Tech">
-      <outline type="rss" text="Ontario Open Government" title="Ontario Open Gov" xmlUrl="https://news.ontario.ca/newsroom/en/rss/all.rss" htmlUrl="https://news.ontario.ca/en"/>
-      <outline type="rss" text="The Narwhal - Ontario" title="The Narwhal ON" xmlUrl="https://thenarwhal.ca/feed/" htmlUrl="https://thenarwhal.ca"/>
     </outline>
   </body>
 </opml>
