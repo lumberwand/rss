@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline title="Aylmer &amp; Area" text="Aylmer &amp; Area">
-      <outline type="rss" text="Aylmer Express" title="Aylmer Express" xmlUrl="https://aylmerexpress.com/aylmer-news/feed/" htmlUrl="https://aylmerexpress.ca"/>
+      <outline type="rss" text="Aylmer Express" title="Aylmer Express" xmlUrl="https://aylmerexpress.com/feed/" htmlUrl="https://aylmerexpress.ca"/>
       <outline type="rss" text="St. Thomas-Elgin Local News" title="St. Thomas-Elgin Local News" xmlUrl="https://www.stthomastimesjournal.com/feed" htmlUrl="https://www.stthomastimesjournal.com"/>
     </outline>
 
