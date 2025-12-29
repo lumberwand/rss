@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>London Ontario Local News (Open Source Tier)</title>
+  </head>
+  <body>
+    <outline text="London Ontario Local News" title="London Ontario Local News">
+      <outline text="CBC London" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-london" htmlUrl="https://www.cbc.ca/news/canada/london" />
+      <outline text="Western News (University &amp; Community)" type="rss" xmlUrl="https://news.westernu.ca/feed/" htmlUrl="https://news.westernu.ca/" />
+      <outline text="City of London (Public Service Announcements)" type="rss" xmlUrl="https://london.ca/newsroom/public-service-announcement/rss.xml" htmlUrl="https://london.ca/newsroom" />
+      <outline text="Radio Western News (Independent Campus/Community)" type="rss" xmlUrl="https://radiowestern.ca/news/rss.xml" htmlUrl="https://radiowestern.ca/" />
+      <outline text="r/londonontario (Community Crowd-sourced News)" type="rss" xmlUrl="https://www.reddit.com/r/londonontario/.rss" htmlUrl="https://www.reddit.com/r/londonontario/" />
+    </outline>
+  </body>
+</opml>
