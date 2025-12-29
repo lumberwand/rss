@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Mon, 29 Dec 2025 15:20:39 -0500</dateCreated>
+  </head>
+  <body>
+    <outline text="Ontario">
+      <outline text="Agriculture, Food and Agribusiness" type="rss" xmlUrl="https://news.ontario.ca/omafa/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Attorney General" type="rss" xmlUrl="https://news.ontario.ca/mag/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Children, Community and Social Services" type="rss" xmlUrl="https://news.ontario.ca/mccss/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Citizenship and Multiculturalism" type="rss" xmlUrl="https://news.ontario.ca/mcm/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Colleges, Universities, Research Excellence and Security" type="rss" xmlUrl="https://news.ontario.ca/mcures/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Economic Development, Job Creation and Trade" type="rss" xmlUrl="https://news.ontario.ca/medjct/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Education" type="rss" xmlUrl="https://news.ontario.ca/edu/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Emergency Preparedness and Response" type="rss" xmlUrl="https://news.ontario.ca/mepr/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Energy and Mines" type="rss" xmlUrl="https://news.ontario.ca/mem/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Environment Conservation and Parks" type="rss" xmlUrl="https://news.ontario.ca/mecp/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Finance" type="rss" xmlUrl="https://news.ontario.ca/mof/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Francophone Affairs" type="rss" xmlUrl="https://news.ontario.ca/mfa/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Government of Ontario News - Ministry of Red Tape Reduction" type="rss" xmlUrl="https://news.ontario.ca/mrtr/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Health" type="rss" xmlUrl="https://news.ontario.ca/moh/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Indigenous Affairs and First Nations Economic Reconciliation" type="rss" xmlUrl="https://news.ontario.ca/iafner/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Infrastructure" type="rss" xmlUrl="https://news.ontario.ca/moi/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Intergovernmental Affairs" type="rss" xmlUrl="https://news.ontario.ca/mia/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Labour, Immigration, Training and Skills Development" type="rss" xmlUrl="https://news.ontario.ca/mlitsd/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Long-Term Care" type="rss" xmlUrl="https://news.ontario.ca/mltc/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Municipal Affairs and Housing" type="rss" xmlUrl="https://news.ontario.ca/mmah/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Natural Resources" type="rss" xmlUrl="https://news.ontario.ca/mnr/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Northern Economic Development and Growth" type="rss" xmlUrl="https://news.ontario.ca/mnedg/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Premier's Office" type="rss" xmlUrl="https://news.ontario.ca/opo/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Public and Business Service Delivery and Procurement" type="rss" xmlUrl="https://news.ontario.ca/mpbsdp/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Rural Affairs" type="rss" xmlUrl="https://news.ontario.ca/mra/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Seniors and Accessibility" type="rss" xmlUrl="https://news.ontario.ca/msaa/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Solicitor General" type="rss" xmlUrl="https://news.ontario.ca/solgen/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Sport" type="rss" xmlUrl="https://news.ontario.ca/sport/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Tourism, Culture and Gaming" type="rss" xmlUrl="https://news.ontario.ca/mtcg/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Transportation" type="rss" xmlUrl="https://news.ontario.ca/mto/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Treasury Board Secretariat" type="rss" xmlUrl="https://news.ontario.ca/tbs/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+      <outline text="Women's Social and Economic Opportunity" type="rss" xmlUrl="https://news.ontario.ca/wseo/en/rss/news.rss" htmlUrl="https://www.ontario.ca/news"/>
+    </outline>
+  </body>
+</opml>
