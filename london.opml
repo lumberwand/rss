@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>London Ontario Local News (Open Source Tier)</title>
+    <title>London Ontario Open-Source News</title>
   </head>
   <body>
-    <outline text="London Ontario Local News" title="London Ontario Local News">
-      <outline text="CBC London" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-london" htmlUrl="https://www.cbc.ca/news/canada/london" />
-      <outline text="Western News (University &amp; Community)" type="rss" xmlUrl="https://news.westernu.ca/feed/" htmlUrl="https://news.westernu.ca/" />
-      <outline text="City of London (Public Service Announcements)" type="rss" xmlUrl="https://london.ca/newsroom/public-service-announcement/rss.xml" htmlUrl="https://london.ca/newsroom" />
-      <outline text="Radio Western News (Independent Campus/Community)" type="rss" xmlUrl="https://radiowestern.ca/news/rss.xml" htmlUrl="https://radiowestern.ca/" />
-      <outline text="r/londonontario (Community Crowd-sourced News)" type="rss" xmlUrl="https://www.reddit.com/r/londonontario/.rss" htmlUrl="https://www.reddit.com/r/londonontario/" />
+    <outline text="London Open-Source" title="London Open-Source">
+      <outline text="Antler River Media Co-op" type="rss" xmlUrl="https://antlerrivermedia.ca/feed/" htmlUrl="https://antlerrivermedia.ca/"/>
+      <outline text="Newsload London (Satire &amp; Civic)" type="rss" xmlUrl="https://www.newsload.ca/blog-feed.xml" htmlUrl="https://www.newsload.ca/"/>
+      <outline text="CBC London (Public Interest)" type="rss" xmlUrl="https://www.cbc.ca/webfeed/rss/rss-canada-london" htmlUrl="https://www.cbc.ca/news/canada/london"/>
+      <outline text="London Public Library News" type="rss" xmlUrl="https://www.lpl.ca/rss.xml" htmlUrl="https://www.lpl.ca/"/>
+      <outline text="r/londonontario (Crowdsourced)" type="rss" xmlUrl="https://www.reddit.com/r/londonontario/.rss" htmlUrl="https://www.reddit.com/r/londonontario/"/>
     </outline>
   </body>
 </opml>
